@@ -1,0 +1,468 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.3)  13 FEB 2022 07:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./resume.tex
+(resume.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count196
+\@cmidlb=\count197
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count198
+\@lastruleclass=\count199
+\@thisrulewidth=\dimen159
+)
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+)
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count267
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count268
+\c@listtotal=\count269
+\c@listcount=\count270
+\c@liststart=\count271
+\c@liststop=\count272
+\c@citecount=\count273
+\c@citetotal=\count274
+\c@multicitecount=\count275
+\c@multicitetotal=\count276
+\c@instcount=\count277
+\c@maxnames=\count278
+\c@minnames=\count279
+\c@maxitems=\count280
+\c@minitems=\count281
+\c@citecounter=\count282
+\c@maxcitecounter=\count283
+\c@savedcitecounter=\count284
+\c@uniquelist=\count285
+\c@uniquename=\count286
+\c@refsection=\count287
+\c@refsegment=\count288
+\c@maxextratitle=\count289
+\c@maxextratitleyear=\count290
+\c@maxextraname=\count291
+\c@maxextradate=\count292
+\c@maxextraalpha=\count293
+\c@abbrvpenalty=\count294
+\c@highnamepenalty=\count295
+\c@lownamepenalty=\count296
+\c@maxparens=\count297
+\c@parenlevel=\count298
+\blx@tempcnta=\count299
+\blx@tempcntb=\count300
+\blx@tempcntc=\count301
+\blx@maxsection=\count302
+\blx@maxsegment@0=\count303
+\blx@notetype=\count304
+\blx@parenlevel@text=\count305
+\blx@parenlevel@foot=\count306
+\blx@sectionciteorder@0=\count307
+\blx@entrysetcounter=\count308
+\blx@biblioinstance=\count309
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count310
+\c@maxcomprange=\count311
+\c@mincompwidth=\count312
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex citestyle data model...
+Package biblatex Info: ... file 'reading.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count313
+\c@savedafterword=\count314
+\c@annotator=\count315
+\c@savedannotator=\count316
+\c@author=\count317
+\c@savedauthor=\count318
+\c@bookauthor=\count319
+\c@savedbookauthor=\count320
+\c@commentator=\count321
+\c@savedcommentator=\count322
+\c@editor=\count323
+\c@savededitor=\count324
+\c@editora=\count325
+\c@savededitora=\count326
+\c@editorb=\count327
+\c@savededitorb=\count328
+\c@editorc=\count329
+\c@savededitorc=\count330
+\c@foreword=\count331
+\c@savedforeword=\count332
+\c@holder=\count333
+\c@savedholder=\count334
+\c@introduction=\count335
+\c@savedintroduction=\count336
+\c@namea=\count337
+\c@savednamea=\count338
+\c@nameb=\count339
+\c@savednameb=\count340
+\c@namec=\count341
+\c@savednamec=\count342
+\c@translator=\count343
+\c@savedtranslator=\count344
+\c@shortauthor=\count345
+\c@savedshortauthor=\count346
+\c@shorteditor=\count347
+\c@savedshorteditor=\count348
+\c@labelname=\count349
+\c@savedlabelname=\count350
+\c@institution=\count351
+\c@savedinstitution=\count352
+\c@lista=\count353
+\c@savedlista=\count354
+\c@listb=\count355
+\c@savedlistb=\count356
+\c@listc=\count357
+\c@savedlistc=\count358
+\c@listd=\count359
+\c@savedlistd=\count360
+\c@liste=\count361
+\c@savedliste=\count362
+\c@listf=\count363
+\c@savedlistf=\count364
+\c@location=\count365
+\c@savedlocation=\count366
+\c@organization=\count367
+\c@savedorganization=\count368
+\c@origlocation=\count369
+\c@savedoriglocation=\count370
+\c@origpublisher=\count371
+\c@savedorigpublisher=\count372
+\c@publisher=\count373
+\c@savedpublisher=\count374
+\c@language=\count375
+\c@savedlanguage=\count376
+\c@origlanguage=\count377
+\c@savedoriglanguage=\count378
+\c@pageref=\count379
+\c@savedpageref=\count380
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count381
+\c@textcitetotal=\count382
+\c@textcitemaxnames=\count383
+\c@biburlbigbreakpenalty=\count384
+\c@biburlbreakpenalty=\count385
+\c@biburlnumpenalty=\count386
+\c@biburlucpenalty=\count387
+\c@biburllcpenalty=\count388
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count389
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count390
+\c@bbx:relatedtotal=\count391
+))
+Package biblatex Info: Trying to load citation style 'reading'...
+Package biblatex Info: ... file 'reading.cbx' found.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\reading.cb
+x
+File: reading.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Trying to load citation style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.cbx' found.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authortitl
+e.cbx
+File: authortitle.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+\@quotelevel=\count392
+\@quotereset=\count393
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count394
+\l__pdf_internal_box=\box50
+) (resume.aux)
+\openout1 = `resume.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2022-01-21 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\ndnes\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `resume.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'resume.bbl' found.
+ (resume.bbl)
+Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference segment=0 on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--34
+
+ []
+
+(src/work.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 1.
+) (src/education.tex) (src/skills.tex) (src/publications.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--41
+
+ []
+
+[1
+
+{C:/Users/ndnes/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(resume.aux)
+Package logreq Info: Writing requests to 'resume.run.xml'.
+\openout1 = `resume.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8947 strings out of 478593
+ 175322 string characters out of 2844605
+ 883514 words of memory out of 3000000
+ 27072 multiletter control sequences out of 15000+600000
+ 472375 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,62p,741b,911s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\ndnes\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/ndnes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/ndnes/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/ndnes/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/ndnes/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ndnes/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ndnes/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on resume.pdf (1 page, 99092 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

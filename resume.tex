@@ -1,0 +1,44 @@
+\documentclass[10pt]{article}
+
+\usepackage[margin=1.0in]{geometry}
+
+\usepackage{booktabs}
+\newcommand{\tabitem}{~~\llap{\textbullet}~}
+
+\usepackage[backend=biber,citestyle=reading]{biblatex}
+\addbibresource{bib/publications.bib}
+
+%###############################################################################
+% Opening Information
+
+%\addtolength{\topmargin}{-0.5in}
+%\addtolength{\hoffset}{-0.5in}
+%\addtolength{\textwidth}{1in}
+%\addtolength{\textheight}{1in}
+
+%###############################################################################
+% Main Document:
+
+\begin{document}
+\pagenumbering{gobble}
+\noindent
+\begin{minipage}[l]{0.58\textwidth}
+\Huge \bf Neal D. Nesbitt
+\end{minipage}
+\hfill
+\begin{minipage}[r]{0.38\textwidth}
+\raggedleft
+ndnesbitt@gmail.com\\
+(832) 577-2072
+\end{minipage}\\
+
+\hrule
+
+\input{src/work.tex}
+\input{src/education.tex}
+\input{src/skills.tex}
+\input{src/publications.tex}
+
+\end{document}
+
+%###############################################################################
