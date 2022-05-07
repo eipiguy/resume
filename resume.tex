@@ -1,21 +1,19 @@
 \documentclass[10pt]{article}
 
-\usepackage[margin=1.0in]{geometry}
+\usepackage[margin=0.75in]{geometry}
+
+\usepackage[scaled]{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage[dvipsnames]{xcolor}
 
 \usepackage{booktabs}
-\newcommand{\tabitem}{~~\llap{\textbullet}~}
+\newcommand{\tabitem}{~~\llap{-}~}
 
 \usepackage[backend=biber,citestyle=reading]{biblatex}
 \addbibresource{bib/publications.bib}
 
-%###############################################################################
-% Opening Information
-
-%\addtolength{\topmargin}{-0.5in}
-%\addtolength{\hoffset}{-0.5in}
-%\addtolength{\textwidth}{1in}
-%\addtolength{\textheight}{1in}
-
+\addtolength{\parskip}{-1.5mm}
 %###############################################################################
 % Main Document:
 
@@ -23,16 +21,18 @@
 \pagenumbering{gobble}
 \noindent
 \begin{minipage}[l]{0.58\textwidth}
-\Huge \bf Neal D. Nesbitt
+    \color{Blue}\Huge \bf Neal D. Nesbitt
 \end{minipage}
 \hfill
 \begin{minipage}[r]{0.38\textwidth}
-\raggedleft
-ndnesbitt@gmail.com\\
-(832) 577-2072
+    \raggedleft
+    \textbf{ndnesbitt@gmail.com}\\
+    (832) 577-2072
 \end{minipage}\\
 
-\hrule
+{\color{Orange}\hrule height 2pt width 0.75\textwidth}
+
+\input{src/summary.tex}
 
 \input{src/work.tex}
 \input{src/education.tex}
