@@ -1,19 +1,19 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'resume.blg'
-[134] biber-MSWIN64:340> INFO - === 
-[184] Biber.pm:415> INFO - Reading 'resume.bcf'
-[271] Biber.pm:952> INFO - Found 2 citekeys in bib section 0
-[282] Biber.pm:4340> INFO - Processing section 0
-[297] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/publications.bib' for section 0
-[335] bibtex.pm:1689> INFO - LaTeX decoding ...
-[342] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/publications.bib'
-[413] Utils.pm:395> WARN - ISBN '978043841249' in entry 'msthesis' is invalid - run biber with '--validate_datamodel' for details.
-[416] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\ndnes\AppData\Local\Temp\biber_tmp_FrzX\6a584f12d8a9d2773171142f50537bb3_9300.utf8, line 3, warning: 38 characters of junk seen at toplevel
-[439] Utils.pm:395> WARN - Entry 'ssci' (bib/publications.bib): Invalid format '2017-11-27/2017-12-1' of end date field 'eventdate' - ignoring
-[448] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[448] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[448] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[449] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[451] bbl.pm:654> INFO - Writing 'resume.bbl' with encoding 'UTF-8'
-[452] bbl.pm:757> INFO - Output to resume.bbl
-[452] Biber.pm:128> INFO - WARNINGS: 3
+[112] biber-MSWIN64:340> INFO - === 
+[141] Biber.pm:415> INFO - Reading 'resume.bcf'
+[226] Biber.pm:952> INFO - Found 2 citekeys in bib section 0
+[237] Biber.pm:4340> INFO - Processing section 0
+[246] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/publications.bib' for section 0
+[285] bibtex.pm:1689> INFO - LaTeX decoding ...
+[293] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/publications.bib'
+[334] Utils.pm:395> WARN - ISBN '978043841249' in entry 'msthesis' is invalid - run biber with '--validate_datamodel' for details.
+[337] Utils.pm:395> WARN - BibTeX subsystem: C:\Users\ndnes\AppData\Local\Temp\biber_tmp_ffid\6a584f12d8a9d2773171142f50537bb3_26504.utf8, line 3, warning: 38 characters of junk seen at toplevel
+[357] Utils.pm:395> WARN - Entry 'ssci' (bib/publications.bib): Invalid format '2017-11-27/2017-12-1' of end date field 'eventdate' - ignoring
+[366] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[366] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[366] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[366] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[369] bbl.pm:654> INFO - Writing 'resume.bbl' with encoding 'UTF-8'
+[370] bbl.pm:757> INFO - Output to resume.bbl
+[370] Biber.pm:128> INFO - WARNINGS: 3
