@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.3)  22 JUL 2023 17:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.2.3)  7 SEP 2023 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -485,11 +485,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--32
 
 (src/summary.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 6.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 6.
+(Font)              scaled to size 9.49997pt on input line 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--7
+Underfull \hbox (badness 10000) in paragraph at lines 2--8
 
  []
 
@@ -498,7 +498,17 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
-) (src/education.tex) (src/skills.tex
+) (src/education.tex
+Overfull \hbox (3.81844pt too wide) in paragraph at lines 3--1
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--1
+
+ []
+
+) (src/skills.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 6.64998pt on input line 5.
 ) (src/publications.tex
@@ -530,7 +540,7 @@ Here is how much of TeX's memory you used:
 <C:/Users/ndnes/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.p
 fb><C:/Users/ndnes/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro
 8a.pfb>
-Output written on resume.pdf (1 page, 38908 bytes).
+Output written on resume.pdf (1 page, 38862 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

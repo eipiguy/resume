@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber resume"] 1690068904 "resume.bcf" "resume.bbl" "resume" 1690071151
+["biber resume"] 1694095484 "resume.bcf" "resume.bbl" "resume" 1694117228
   "bib/publications.bib" 1604358430 1294 11b8f5740f7684af94ff1b0fcfebf7bf ""
-  "resume.bcf" 1690071151 106621 6fb3a049eb8157dee809ce83880cd286 "pdflatex"
+  "resume.bcf" 1694117228 106621 6fb3a049eb8157dee809ce83880cd286 "pdflatex"
   (generated)
   "resume.bbl"
   "resume.blg"
-["pdflatex"] 1690071150 "d:/Dropbox/neal/portfolio/resume/resume.tex" "resume.pdf" "resume" 1690071151
-  "C:/Users/ndnes/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1645657682 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1694117227 "d:/Dropbox/neal/portfolio/resume/resume.tex" "resume.pdf" "resume" 1694117228
+  "C:/Users/ndnes/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1694092261 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/ndnes/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1643897140 10243468 f816ac3c24c3222660ca7ca8c3bbf247 ""
   "C:/Users/ndnes/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/ndnes/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136797454 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -62,16 +62,16 @@
   "C:/Users/ndnes/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1phv.fd" 1585253778 1736 51f99a09d5536398d3a0ad1d44df9625 ""
   "C:/Users/ndnes/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/ndnes/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636288472 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "d:/Dropbox/neal/portfolio/resume/resume.tex" 1690071149 1051 9d1747d222c35a2929b3c76536bdda17 ""
-  "resume.aux" 1690071151 635 db26215b978a79701530488936b9e4b8 "pdflatex"
-  "resume.bbl" 1690068928 3658 a7fb37cc7ba063af8249ea14fe9b00a4 "biber resume"
-  "resume.run.xml" 1690071151 2360 65fa93f25027f8ed08977741a93f9303 "pdflatex"
-  "resume.tex" 1690071149 1051 9d1747d222c35a2929b3c76536bdda17 ""
+  "d:/Dropbox/neal/portfolio/resume/resume.tex" 1694117226 1052 7dd586927ea188335e616ca9f4bec65f ""
+  "resume.aux" 1694117228 635 3bae61587d3bb7e05781ce61edf94efb "pdflatex"
+  "resume.bbl" 1694095486 3658 a7fb37cc7ba063af8249ea14fe9b00a4 "biber resume"
+  "resume.run.xml" 1694117228 2360 65fa93f25027f8ed08977741a93f9303 "pdflatex"
+  "resume.tex" 1694117226 1052 7dd586927ea188335e616ca9f4bec65f ""
   "src/education.tex" 1688671835 1095 e8ac575dddfc3bb9086f48ae9a7435e2 ""
   "src/publications.tex" 1645661204 129 3a00034e041b7900debbf1e56d9bb900 ""
-  "src/skills.tex" 1688672110 550 e113ad855bd21fdec125a64ca02f363a ""
-  "src/summary.tex" 1652047909 457 c2081e4cf414ff6bcff52aa15228e32b ""
-  "src/work.tex" 1690069248 1503 8601f53f8134c2893fcac8d67eff9b5f ""
+  "src/skills.tex" 1694093843 550 d730c12df08fccaa0739bbe93b0efb0c ""
+  "src/summary.tex" 1694094100 548 673d2ffad0d5a74c785bd6dc7ee20452 ""
+  "src/work.tex" 1694095598 1840 bdd4837d382b71501bd9156808515fe9 ""
   (generated)
   "resume.aux"
   "resume.bcf"
